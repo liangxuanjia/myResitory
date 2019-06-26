@@ -4,7 +4,7 @@ public class TestGit {
 
 	public static void main(String[] args) {
 		int i=0;
-		System.out.println("hello world"+i);
+		System.out.println("fenzihello world"+i);
 	}
 
 }
